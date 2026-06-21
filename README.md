@@ -59,6 +59,11 @@ Running the main script:
 python main.py
 ```
 
+# Working:
+<img width="500" height="300" alt="Use AI Image Jun 21, 2026, 11_31_46" src="https://github.com/user-attachments/assets/e543aa2a-83ef-4ea4-90ae-95bea4792ce3" />
+
+---
+
 Opening the notebooks:
 
 Launch Jupyter or open the notebooks in VS Code:
