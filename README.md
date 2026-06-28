@@ -61,6 +61,7 @@ python main.py
 
 # Working:
 <img width="500" height="300" alt="Use AI Image Jun 21, 2026, 11_31_46" src="https://github.com/user-attachments/assets/e543aa2a-83ef-4ea4-90ae-95bea4792ce3" />
+<img width="1690" height="608" alt="Gemini_Generated_Image_kth3t5kth3t5kth3 (1)" src="https://github.com/user-attachments/assets/afe8bc05-433f-4349-ac3e-8c36bca311ac" />
 
 ---
 
